@@ -30,8 +30,8 @@
 将该repo克隆到本地。
 
 ```bash
-git clone https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster.git
-cd kubernetes-vagrant-centos-cluster
+git clone https://github.com/zhaozhiwei1992/centos-multi-nodes.git
+cd centos-multi-nodes
 ```
 
 使用vagrant启动集群。
