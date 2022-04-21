@@ -3,7 +3,7 @@
 需要准备以下软件和环境：
 
 - 8G以上内存
-- Vagrant 2.2+（推荐使用 v2.0.2 版本）
+- Vagrant 2.2+
 - VirtualBox 6.1
 - Linux
 
